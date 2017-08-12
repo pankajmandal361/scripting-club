@@ -14,7 +14,7 @@ else
      echo "Bye...
      sleep 2
      clear
-     exir 32
+     exit 32
 fi
 #
 cat $file | while read line
